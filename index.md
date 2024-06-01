@@ -1,3 +1,5 @@
-# First Header <h1>
+# First Header 
 ## Header two 
 ### Header three
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
